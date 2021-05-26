@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ha7wski
+- 👋 Hi, I’m Hatim Hebboul.
 - 👀 I’m interested in data science, machine learning and deep learning, statistics and also pure mathematics.
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
