@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Hatim Hebboul.
-- 👀 I am an engineering student passionate about the digital world and specifically the universe of data science.
-- 🔭 I’m currently working on NLP projects 
-- ⚡ Fun fact: Amateur poker player.
+### Hi there 👋, my name is Hatim
+#### I am an engineering student passionate about the digital world and specifically the universe of data science.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ha7wski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/hatim-hebboul-0b1563193//)  
 
