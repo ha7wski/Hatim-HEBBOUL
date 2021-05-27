@@ -1,7 +1,6 @@
 ### Hello World, I'm Hatim  👋
 #### I am an engineering student passionate about the digital world and specifically the universe of data science.
 
-- ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on NLP projects.
 - 🌱 I’m currently learning PyQt5 and SpaCy
 - 💬 Ask me about ... Anything
