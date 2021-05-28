@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on NLP projects.
 - 🌱 I’m currently learning PyQt5 and SpaCy
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages (English, French, Arabic) and I'm an amateur poker player.
+- ⚡ Fun fact: I speak 3 languages (English, French, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
 
 ### Talk with me, I am kinda awesome:
 
