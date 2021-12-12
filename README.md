@@ -2,7 +2,7 @@
 #### I am an engineering student passionate about the digital world and specifically the universe of data science.
 
 - 🔭 I’m currently working on NLP projects.
-- 🌱 I’m currently learning PyQt5 and SpaCy
+- 🌱 I’m currently learning PyQt5 and spaCy
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages (English, French, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
 
