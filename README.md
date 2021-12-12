@@ -2,10 +2,10 @@
 #### I am an engineering student passionate about the digital world and specifically the universe of data science.
 
 - 🔭 I’m currently working on NLP projects.
-- 🌱 I’m currently learning PyQt5 and spaCy
-- 💬 Ask me about ... Anything
-- 💡 My IA/DATA internship at Sharewoods : https://blog.sharewoods.io/un-nouveau-talent-en-ia-chez-sharewoods-b1decd35d07b
+- 🌱 I’m currently learning PyQt5 and spaCy.
+- 💡 My IA/DATA internship at Sharewoods : https://blog.sharewoods.io/un-nouveau-talent-en-ia-chez-sharewoods-b1decd35d07b .
 - ⚡ Fun fact: I speak 4 languages (English, French, Spanish, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
+- 💬 Ask me about ... anything.
 
 
 ### Talk with me, I am kinda awesome:
