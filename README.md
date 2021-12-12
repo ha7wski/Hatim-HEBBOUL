@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning PyQt5 and spaCy
 - 💬 Ask me about ... Anything
 - 💡 My IA/DATA internship at Sharewoods : https://blog.sharewoods.io/un-nouveau-talent-en-ia-chez-sharewoods-b1decd35d07b
-- ⚡ Fun fact: I speak 3 languages (English, French, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
+- ⚡ Fun fact: I speak 4 languages (English, French, Spanish, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
 
 
 ### Talk with me, I am kinda awesome:
