@@ -1,7 +1,7 @@
 ### Hello World, I'm Hatim  👋
 #### I am an engineering student passionate about the digital world and specifically the universe of data science.
 
-- 🔭 I’m currently working on data engineering projects.
+- 🔭 I’m currently working on machine learning engineering projects.
 - 🌱 Passionate about NLP and quantitative research.
 - 💡 My IA/DATA internship at Sharewoods : https://blog.sharewoods.io/un-nouveau-talent-en-ia-chez-sharewoods-b1decd35d07b .
 - ⚡ Fun fact: I speak 4 languages (English, French, Spanish, Arabic) I'm interested in neuroscience and I'm an amateur poker player.
